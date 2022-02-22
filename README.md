@@ -1,4 +1,4 @@
-# googlemaps
+# Googlemaps with flutter
 
 Exploring the google maps API on flutter:
 - Setting locations on the button
